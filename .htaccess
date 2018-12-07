@@ -1,0 +1,4 @@
+DirectoryIndex index.php index.html index.htm
+ErrorDocument 404 /not.html
+#disable directory browsing
+Options All -Indexes
